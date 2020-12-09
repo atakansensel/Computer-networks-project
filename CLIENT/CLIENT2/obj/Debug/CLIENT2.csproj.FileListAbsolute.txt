@@ -1,0 +1,12 @@
+c:\users\atakan\documents\visual studio 2012\Projects\CLIENT2\CLIENT2\bin\Debug\CLIENT2.exe.config
+c:\users\atakan\documents\visual studio 2012\Projects\CLIENT2\CLIENT2\obj\Debug\CLIENT2.Form1.resources
+c:\users\atakan\documents\visual studio 2012\Projects\CLIENT2\CLIENT2\obj\Debug\CLIENT2.Properties.Resources.resources
+c:\users\atakan\documents\visual studio 2012\Projects\CLIENT2\CLIENT2\obj\Debug\CLIENT2.csproj.GenerateResource.Cache
+c:\users\atakan\documents\visual studio 2012\Projects\CLIENT2\CLIENT2\bin\Debug\CLIENT2.exe
+c:\users\atakan\documents\visual studio 2012\Projects\CLIENT2\CLIENT2\bin\Debug\CLIENT2.pdb
+c:\users\atakan\documents\visual studio 2012\Projects\CLIENT2\CLIENT2\obj\Debug\CLIENT2.exe
+c:\users\atakan\documents\visual studio 2012\Projects\CLIENT2\CLIENT2\obj\Debug\CLIENT2.pdb
+C:\Users\Atakan\documents\visual studio 2012\Projects\CLIENT2\CLIENT2\obj\Debug\CLIENT2.csprojResolveAssemblyReference.cache
+C:\Users\Atakan\Desktop\cs 408 proje\CLIENT2\CLIENT2\bin\Debug\CLIENT2.exe.config
+C:\Users\Atakan\Desktop\cs 408 proje\CLIENT2\CLIENT2\obj\Debug\CLIENT2.exe
+C:\Users\Atakan\Desktop\cs 408 proje\CLIENT2\CLIENT2\obj\Debug\CLIENT2.pdb

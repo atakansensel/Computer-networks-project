@@ -1,0 +1,4 @@
+Our project two or more clients connect server.If the server press the start game button the game starts and send a message 
+that the game has started if the player number is less than 2 the game does not start.when the game started server send a message to 
+player (players turn) which is that users turn and also server knows which players turn.if a client this connected server get a message that client disconnected.
+if the server closed (closed by close button or x button that top right corner) client richtextbox prints that there is a connection problem and server closed.  

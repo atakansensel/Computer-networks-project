@@ -1,0 +1,21 @@
+C:\Users\Atakan\documents\visual studio 2012\Projects\SERVER2\SERVER2\obj\Debug\SERVER2.Properties.Resources.resources
+C:\Users\Atakan\documents\visual studio 2012\Projects\SERVER2\SERVER2\obj\Debug\SERVER2.csproj.GenerateResource.Cache
+C:\Users\Atakan\documents\visual studio 2012\Projects\SERVER2\SERVER2\bin\Debug\SERVER2.exe.config
+C:\Users\Atakan\documents\visual studio 2012\Projects\SERVER2\SERVER2\bin\Debug\SERVER2.exe
+C:\Users\Atakan\documents\visual studio 2012\Projects\SERVER2\SERVER2\bin\Debug\SERVER2.pdb
+C:\Users\Atakan\documents\visual studio 2012\Projects\SERVER2\SERVER2\obj\Debug\SERVER2.exe
+C:\Users\Atakan\documents\visual studio 2012\Projects\SERVER2\SERVER2\obj\Debug\SERVER2.pdb
+C:\Users\Atakan\documents\visual studio 2012\Projects\SERVER2\SERVER2\obj\Debug\SERVER2.csprojResolveAssemblyReference.cache
+C:\Users\Atakan\documents\visual studio 2012\Projects\SERVER2\SERVER2\obj\Debug\SERVER2.Form1.resources
+C:\Users\Atakan\Desktop\21055_Sensel_Atakan_Step1\SERVER\SERVER2\bin\Debug\SERVER2.exe.config
+C:\Users\Atakan\Desktop\21055_Sensel_Atakan_Step1\SERVER\SERVER2\obj\Debug\SERVER2.exe
+C:\Users\Atakan\Desktop\21055_Sensel_Atakan_Step1\SERVER\SERVER2\obj\Debug\SERVER2.pdb
+C:\Users\Atakan\Desktop\21055_Sensel_Atakan_Step1\SERVER\SERVER2\bin\Debug\SERVER2.exe
+C:\Users\Atakan\Desktop\21055_Sensel_Atakan_Step1\SERVER\SERVER2\bin\Debug\SERVER2.pdb
+C:\Users\Atakan\Desktop\21055_Sensel_Atakan_Step1\SERVER\SERVER2\obj\Debug\SERVER2.csprojResolveAssemblyReference.cache
+C:\Users\Atakan\Desktop\21055_Sensel_Atakan_Step1\SERVER\SERVER2\obj\Debug\SERVER2.Form1.resources
+C:\Users\Atakan\Desktop\21055_Sensel_Atakan_Step1\SERVER\SERVER2\obj\Debug\SERVER2.Properties.Resources.resources
+C:\Users\Atakan\Desktop\21055_Sensel_Atakan_Step1\SERVER\SERVER2\obj\Debug\SERVER2.csproj.GenerateResource.Cache
+C:\Users\Atakan\Desktop\cs 408 proje\SERVER\SERVER2\bin\Debug\SERVER2.exe.config
+C:\Users\Atakan\Desktop\cs 408 proje\SERVER\SERVER2\obj\Debug\SERVER2.exe
+C:\Users\Atakan\Desktop\cs 408 proje\SERVER\SERVER2\obj\Debug\SERVER2.pdb
